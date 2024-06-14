@@ -33,14 +33,14 @@ $ yarn install
 ```
 
 ## Docker (Optional)
-This project can be used with Docker Container for more info read README.Docker.md
+This project can be used with Docker Container for more info read [README.Docker.md](./README.Docker.md)
 
 
 ## Prestart (Optional)
 If there is no postgreSQL DB named **'${DB_NAME}'** in your local host **please run this command`**
 
 ```bash
-#prestart
+# prestart
 $ yarn prestart:dev
 ```
 
